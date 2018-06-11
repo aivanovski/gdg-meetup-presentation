@@ -131,9 +131,9 @@
 
 - Lifecycle
 - enums Lifecycle.State and Lifecycle.Event
-- LifecycleObserver
+- interface LifecycleObserver
 - annotation OnLifecycleEvent
-- LifecycleOwner
+- interface LifecycleOwner
 
 ---
 
