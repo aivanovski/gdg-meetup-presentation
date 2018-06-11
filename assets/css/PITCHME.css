@@ -1,0 +1,23 @@
+.title-top-left {
+    position: fixed;
+    top: 70px;
+    left: 10px;
+    color: black;
+    font-weight: normal;
+}
+
+.title-top-center {
+    position: fixed;
+    top: 70px;
+}
+
+.reveal pre {
+    width: 100%;
+    box-shadow : none;
+}
+  
+.reveal pre code {
+    font-size: 0.8em;
+    line-height: 1.2;
+    border-radius: 0px;
+}
