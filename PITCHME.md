@@ -464,6 +464,6 @@ public class TasksActivity extends AppCompatActivity implements
 - Android Architecture Blueprints
   - <span style="font-size:0.7em;">https://github.com/googlesamples/android-architecture</span>
 - Presentation
-  - <span style="font-size:0.7em;">https://github.com/...</span>
+  - <span style="font-size:0.7em;">https://github.com/aivanovski/gdg-meetup-presentation</span>
 - Tasty Meals App
-  - <span style="font-size:0.7em;">https://github.com/...</span>
+  - <span style="font-size:0.7em;">https://github.com/aivanovski/gdg-meetup-sample</span>
