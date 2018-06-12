@@ -353,9 +353,6 @@ Simple To-Do list app
 @[205-207](Filtering items in main thread)
 @[241-244](Error handling)
 
----?code=assets/code/to-do-app/TasksAdapter.java&lang=java&title=<span style="font-size:1.5em;">**TasksAdapter.java**</span>
-@[78-89](Notify ViewModel about "Complete Task" and "Open task" events)
-
 ---
 
 <span style="font-size:1.5em; font-weight: bold;">Problems & Summary</span>
